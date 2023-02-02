@@ -17,7 +17,7 @@ apt install golang
 # for archlinux users
 pacman -S go
 
-curl https://cdn.staticaly.com/gh/ZX-11/edgetts-cli/main/install.sh | sh
+curl https://cdn.staticaly.com/gh/ZX-11/edgetts-cli/main/build.sh | sh
 ```
 
 选项说明：
