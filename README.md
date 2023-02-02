@@ -1,6 +1,6 @@
 # edgetts-cli
 
-利用edge tts接口进行语音合成。支持任意长度的文本，支持任意输出音频格式（配合ffmpeg），支持并行抓取，支持断点续传。
+利用Edge提供的tts接口进行语音合成。支持任意长度的文本，支持任意输出音频格式（配合ffmpeg），支持并行抓取，支持断点续传。
 
 本项目基于[https://github.zxxx.cf/jing332/tts-server-go/](https://github.zxxx.cf/jing332/tts-server-go/)二次开发。
 
