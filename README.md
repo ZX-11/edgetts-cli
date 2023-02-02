@@ -2,7 +2,7 @@
 
 利用Edge提供的tts接口进行语音合成。支持任意长度的文本，支持任意输出音频格式（配合ffmpeg），支持并行抓取，支持断点续传。
 
-本项目基于[https://github.zxxx.cf/jing332/tts-server-go/](https://github.zxxx.cf/jing332/tts-server-go/)二次开发。
+本项目基于[https://github.com/jing332/tts-server-go/](https://github.com/jing332/tts-server-go/)开发。
 
 Windows用户可以直接下载可执行文件使用，下载后将压缩包解压，并将可执行文件加入到PATH即可：
 
