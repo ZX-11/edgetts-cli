@@ -12,6 +12,7 @@ mkdir edgetts-cli && \
 cd edgetts-cli && (\
 wget --timeout 10 --tries 1 https://github.com/ZX-11/edgetts-cli/raw/main/edgetts.go || \
 wget --timeout 10 --tries 1 https://cdn.staticaly.com/gh/ZX-11/edgetts-cli/main/edgetts.go || \
+wget --timeout 10 --tries 1 https://testingcf.jsdelivr.net/gh/ZX-11/edgetts-cli@main/edgetts.go || \
 wget --timeout 10 --tries 1 https://fastly.jsdelivr.net/gh/ZX-11/edgetts-cli@main/edgetts.go || \
 wget --timeout 10 --tries 1 https://gcore.jsdelivr.net/gh/ZX-11/edgetts-cli@main/edgetts.go || \
 wget --timeout 10 --tries 1 https://raw.fastgit.org/ZX-11/edgetts-cli/main/edgetts.go || \
