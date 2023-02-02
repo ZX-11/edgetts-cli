@@ -17,4 +17,5 @@ wget https://gcore.jsdelivr.net/gh/ZX-11/edgetts-cli@main/edgetts.go || \
 wget https://raw.fastgit.org/ZX-11/edgetts-cli/main/edgetts.go || \
 wget https://ghproxy.com/https://github.com/ZX-11/edgetts-cli/raw/main/edgetts.go && \
 go build -ldflags="-s -w" edgetts.go && \
-echo "All Done. Build file can be found in ./tts-server-go-master/edgetts-cli"
+echo "Done. Build file can be found in ./tts-server-go-master/edgetts-cli" && \
+type ffmpeg || echo "Warning: You also need to install ffmpeg!"
