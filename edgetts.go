@@ -105,7 +105,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	paras := strings.Split(str(buf), If(runtime.GOOS == "windows", "\r\n", "\n"))
+	paras := strings.Split(str(buf), If(strings.Contains(str(buf), "\r\n"), "\r\n", "\n"))
 
 	lines = len(paras)
 
