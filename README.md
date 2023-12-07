@@ -6,7 +6,7 @@
 
 Windows用户可以直接下载可执行文件使用，下载后将压缩包解压，并将可执行文件加入到PATH即可：
 
-> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16c0 1.1.9 2 2 2h12a2 2 0 0 0 2-2V8l-6-6z"/><path d="M14 3v5h5M16 13H8M16 17H8M10 9H8"/></svg><a href="https://oss-ams.zxxx.cf/attachments/edgetts.zip"><b>edgetts.zip</b></a>
+> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16c0 1.1.9 2 2 2h12a2 2 0 0 0 2-2V8l-6-6z"/><path d="M14 3v5h5M16 13H8M16 17H8M10 9H8"/></svg><a href="https://github.com/ZX-11/edgetts-cli/releases/download/0.1/edgetts.zip"><b>edgetts.zip</b></a>
 
 Linux用户可以通过脚本构建（需要安装go和ffmpeg）:
 
